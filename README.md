@@ -6,7 +6,7 @@ Create a container containing development environment & Pre-built applications o
 
 See also
 
-https://qiita.com/GORO_Neko/items/8f78a212601669275948
+https://qiita.com/GORO_Neko/items/4a14ef35d3243729d442
 
 Public site of pico-mruby
 
