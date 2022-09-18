@@ -6,7 +6,7 @@ pico-mruby の開発環境とビルド済みアプリケーションを含むコ
 
 こちらもご覧ください
 
-https://qiita.com/GORO_Neko/items/8f78a212601669275948
+https://qiita.com/GORO_Neko/items/4a14ef35d3243729d442
 
 pico-mrubyの公開サイト
 
